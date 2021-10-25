@@ -190,7 +190,7 @@ p {
 
 .contacts-item:hover .contacts-svg,
 .contacts-item:focus .contacts-svg {
-  animation: contact-animation 2500ms infinite alternate ease-in-out 250ms;
+  animation: contact-animation 2000ms infinite alternate ease-in-out 250ms;
 }
 
 @keyframes contact-animation {
