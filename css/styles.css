@@ -20,6 +20,10 @@
   --t250: 250ms;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   color: var(--primary-text-color);
   background: var(--white-color);
